@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\ryan\desktop\c++ junk\my game\sfml\source.cpp(47): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ryan\desktop\c++ junk\my game\sfml\source.cpp(102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ryan\desktop\c++ junk\my game\sfml\source.cpp(111): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ryan\desktop\c++ junk\my game\sfml\source.cpp(121): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ryan\desktop\c++ junk\my game\sfml\source.cpp(129): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ryan\desktop\c++ junk\my game\sfml\source.cpp(134): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ryan\desktop\c++ junk\my game\sfml\source.cpp(139): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ryan\desktop\c++ junk\my game\sfml\source.cpp(275): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ryan\desktop\c++ junk\my game\sfml\source.cpp(299): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+  SFML.vcxproj -> C:\Users\Ryan\Desktop\C++ Junk\My Game\x64\Debug\SFML.exe
